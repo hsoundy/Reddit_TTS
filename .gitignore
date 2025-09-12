@@ -2,3 +2,4 @@ tts_service_account.json
 *.mp3
 voices.txt
 en-us-Chirp3_voices.txt
+reddit_auth.csv
